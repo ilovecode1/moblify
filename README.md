@@ -3,6 +3,8 @@ moblify
 
 Make any site mobile friendly with one line of code!
 
+Moblify Offical Site http://cosmicsearch.org/Moblify
+
 Moblify is #opensourcecss
 
 Moblify Contest Tweet #howyouusemoblify and win an exclusive beta version contest ends Feb 1st!
