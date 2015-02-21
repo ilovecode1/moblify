@@ -1,6 +1,8 @@
 moblify
 =======
 
+Learn Moblify at http://www.codecademy.com/cosmiclearn/codebits/YRK9PN
+
 Try https://github.com/ilovecode1/moblify-element
 
 Make any site mobile friendly with one line of code!
