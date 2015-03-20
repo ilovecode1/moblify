@@ -29,9 +29,14 @@ Get Plugins: cosmicsearch.org/Moblify/#plugins
 
 New Moblify Tutorial http://www.codecademy.com/courses/web-beginner-en-b0igf
 
+Version 1.4.5
+
+1. Makes nav bars more responsive!
+
 Version 1.3.5
 
 1. Adds grid layouts from http://codepen.io/SitePoint/pen/ncDxo
+
 Version 1.2.5
 
 
