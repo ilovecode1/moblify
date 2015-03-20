@@ -1,7 +1,7 @@
 moblify
 =======
 
-Now on npm:
+Now on npm (not latest version):
 
 `npm install moblify`
 
