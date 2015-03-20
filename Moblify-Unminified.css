@@ -11,41 +11,7 @@
 /*Moblify uses css to calculate the width of the screen then change the elements*/
 /*So they can fit the screen size*/
 
-/*Version Info*/
-/*version 1.2.5 (current)*/
 
-/*
-1. Responsive text
-2. Responsive img
-3. Disables Mobile Webkit Highlights
-*/
-
-/*Version 1.2*/
-
-/*
-1. Added Eric Meyer's Reset CSS v2.0, 
-2. Minified.
-*/
-
-/*Version 1.1.5 */
-
-/*
-1. Better Iphone Support.
-*/
-
-/*Version 1.1*/
-
-/*
-1. Added Video Resizing, 
-
-2. Added iFrame Resizing, 
-
-3. Updated Picture Resizing, 
-
-4. Bug Fix that did not let the user resize on some pages.
-
-5. Added Form Support (Buttons,  Text Boxes,  etc.)
-*/
 
 /* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -312,3 +278,67 @@ body  {
       cursor:  pointer;
   }
   
+/*Styles for screen 600px and lower*/
+@media screen and (max-width: 600px) {
+	nav { 
+  		height: auto;
+  	}
+  	nav ul {
+  		width: 100%;
+  		display: block;
+  		height: auto;
+  	}
+  	nav li {
+  		width: 50%;
+  		float: left;
+  		position: relative;
+  	}
+  	nav li a {
+		border-bottom: 1px solid #576979;
+		border-right: 1px solid #576979;
+	}
+  	nav a {
+	  	text-align: left;
+	  	width: 100%;
+	  	text-indent: 25px;
+  	}
+}
+
+/*Styles for screen 515px and lower*/
+@media only screen and (max-width : 480px) {
+	nav {
+		border-bottom: 0;
+	}
+	nav ul {
+		display: none;
+		height: auto;
+	}
+	nav a#pull {
+		display: block;
+		background-color: #283744;
+		width: 100%;
+		position: relative;
+	}
+	nav a#pull:after {
+		content:"";
+		background: url('nav-icon.png') no-repeat;
+		width: 30px;
+		height: 30px;
+		display: inline-block;
+		position: absolute;
+		right: 15px;
+		top: 10px;
+	}
+}
+
+/*Smartphone*/
+@media only screen and (max-width : 320px) {
+	nav li {
+		display: block;
+		float: none;
+		width: 100%;
+	}
+	nav li a {
+		border-bottom: 1px solid #576979;
+	}
+}
