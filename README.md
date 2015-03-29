@@ -7,10 +7,6 @@ Now on npm (not latest version):
 
 An -ify project!
 
-Learn Moblify at http://www.codecademy.com/cosmiclearn/codebits/YRK9PN
-
-Try https://github.com/ilovecode1/moblify-element
-
 Make any site mobile friendly with one line of code!
 
 Moblify Offical Site http://cosmicsearch.org/Moblify
@@ -26,6 +22,12 @@ Make a Moblify plugin! More info at cosmicsearch.org/Moblify/#plugins
 Get Plugins: cosmicsearch.org/Moblify/#plugins
 
 New Moblify Tutorial http://www.codecademy.com/courses/web-beginner-en-b0igf
+
+Version 1.6
+
+1. Fixed Bugs that made Moblify.css not work on strict browsers
+2. LESS code is minified
+3. Moblify.sass
 
 Version 1.4.5
 
