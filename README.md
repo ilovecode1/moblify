@@ -27,6 +27,7 @@ Version 1.6
 
 1. Fixed Bugs that made Moblify.css not work on strict browsers
 2. Moblify.scss
+3. Moblify.less was removed because of errors in css2less
 
 Version 1.4.5
 
