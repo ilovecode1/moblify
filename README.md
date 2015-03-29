@@ -26,8 +26,7 @@ New Moblify Tutorial http://www.codecademy.com/courses/web-beginner-en-b0igf
 Version 1.6
 
 1. Fixed Bugs that made Moblify.css not work on strict browsers
-2. LESS code is minified
-3. Moblify.sass
+2. Moblify.scss
 
 Version 1.4.5
 
