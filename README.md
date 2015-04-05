@@ -1,6 +1,8 @@
 moblify
 =======
 
+Try MoblifyUI https://github.com/ilovecode1/MoblifyUI
+
 Now on npm (not latest version):
 
 `npm install moblify`
