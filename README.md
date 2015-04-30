@@ -1,6 +1,8 @@
 moblify
 =======
 
+Moblify is soon to be on jsdelivr!
+
 Try MoblifyUI https://github.com/ilovecode1/MoblifyUI
 
 Now on npm (not latest version):
