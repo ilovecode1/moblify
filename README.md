@@ -1,7 +1,7 @@
 moblify
 =======
 
-Moblify is soon to be on jsdelivr!
+Moblify's CDN https://cdn.rawgit.com/ilovecode1/moblify/master/Moblify.css
 
 Try MoblifyUI https://github.com/ilovecode1/MoblifyUI
 
