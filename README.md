@@ -1,6 +1,10 @@
 moblify
 =======
 
+#Update
+
+Moblify IS NOT DEAD!
+
 Moblify's CDN https://cdn.rawgit.com/ilovecode1/moblify/master/Moblify.css
 
 Try MoblifyUI https://github.com/ilovecode1/MoblifyUI
