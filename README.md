@@ -1,7 +1,3 @@
-#Update
-
-Moblify IS NOT DEAD!
-
 moblify
 =======
 
