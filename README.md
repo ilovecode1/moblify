@@ -1,3 +1,5 @@
+Moblify is done [Learn More](https://github.com/ilovecode1/moblify/wiki)!
+
 moblify
 =======
 
